@@ -4,9 +4,6 @@
 
 > **iCalculator** is a iOS app. The code of iCalculator is written in **Swift-5** language .
 
-> ![poster](11.png)
-
-> ![poster](22.png)
 
 ## Requirements
 
