@@ -1,15 +1,11 @@
 //
 //  ViewController.swift
-//  Calculator Layout iOS13
-//
-//  Created by Angela Yu on 01/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
-//
+//  iCalculator Layout iOS
+
+// Made by Anubhav Singh
 
 import UIKit
 
-
-import SnapKit
 
 class MyViewController: UIViewController {
 
@@ -18,17 +14,9 @@ class MyViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        self.view.addSubview(box)
-        box.backgroundColor = .green
-        box.snp.makeConstraints { (make) -> Void in
-           make.width.height.equalTo(50)
-           make.center.equalTo(self.view)
+      
         }
     }
-
-}
-
-
 
 
 
