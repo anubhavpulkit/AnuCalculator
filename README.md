@@ -35,5 +35,7 @@ Please feel free to make a pull request. There is so much to improve on.
 
 ### Developer
 -   e-mail :  [anubhavssingh177@gmail.com](mailto:anubhavssingh177@gmail.com)
+-   e-mail :  [gshanbhag525@gmail.com](mailto:gshanbhag525@gmail.com)
+
 -   Twitter:  [@anubhavpulkit](https://twitter.com/anubhavpulkit)
 
