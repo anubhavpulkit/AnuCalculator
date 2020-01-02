@@ -26,12 +26,8 @@ Run  `https://github.com/anubhavsingh16/iCalculator.git`
 
 ##  Setup
 
--   Close Xcode
--   Open a terminal window, and  `$ cd`  into your project directory.
--   Run  `$ sudo gem install cocoapods` on your mac 
--   Run  `$ pod install`  if you are installing for the first time
--   You may require to run  `$ pod update`
--   `$ open iCalculator.xcworkspace`  and build.
+-   Open Xcode
+-   `$ open Calculator.xcodeproj`  and build.
 
 ## Contributors on GitHub
 
@@ -39,5 +35,7 @@ Please feel free to make a pull request. There is so much to improve on.
 
 ### Developer
 -   e-mail :  [anubhavssingh177@gmail.com](mailto:anubhavssingh177@gmail.com)
+-   e-mail :  [gshanbhag525@gmail.com](mailto:gshanbhag525@gmail.com)
+
 -   Twitter:  [@anubhavpulkit](https://twitter.com/anubhavpulkit)
 
