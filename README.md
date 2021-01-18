@@ -1,8 +1,8 @@
-# iCalculator 
+# AnuCalculator 
 
 
 
-> **iCalculator** is a iOS app. The code of iCalculator is written in **Swift-5** language .
+> **AnuCalculator** is a iOS app. The code of iCalculator is written in **Swift-5** language .
 
 
 ## Requirements
